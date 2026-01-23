@@ -6,7 +6,6 @@ Software Developer
 
 * 🌍  I'm based in Loveland, Colorado
 * ✉️  You can contact me at [joshua.frazier1519@gmail.com](mailto:joshua.frazier1519@gmail.com)
-* 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
