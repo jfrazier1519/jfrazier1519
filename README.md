@@ -7,7 +7,7 @@ Full-Stack Software Engineer
 * 🌍 Based in Loveland, Colorado  
 * ✉️ Contact: [joshua.frazier1519@gmail.com](mailto:joshua.frazier1519@gmail.com)  
 * 🤝 Open to collaborating on interesting full-stack or frontend projects  
-* 🏗 Most recent work lives in private repositories under my company org:  
+* 🏗 Most recent work lives in private company repositories or under my company org:  
   **https://github.com/techedge-llc**
 
 I focus on building full-stack applications, MVPs, and prototypes using React, Node.js, TypeScript, and Firebase. I specialize in shipping products quickly and reliably with clean architecture, scalable patterns, and modern tooling.
